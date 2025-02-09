@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Valentine's Day</title>
+    <style>
+        body {
+            text-align: center;
+            background-color: #ffe6e6;
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            margin-top: 50px;
+        }
+        img {
+            width: 200px;
+            height: auto;
+        }
+        h1 {
+            color: red;
+            font-size: 24px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Rosa_Red_Chateau01.jpg/800px-Rosa_Red_Chateau01.jpg" alt="Flower">
+        <h1>Happy Valentine's Day KUPAL♥️</h1>
+    </div>
+</body>
+</html>
